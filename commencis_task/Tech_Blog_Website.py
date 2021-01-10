@@ -1,7 +1,6 @@
 from selenium import webdriver
 import logging
 
-aaa
 #Direction of webdriver has designated
 driver = webdriver.Chrome(executable_path=r'D:\Automation\selenium\chromedriver.exe')
 
